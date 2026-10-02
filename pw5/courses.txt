@@ -1,0 +1,2 @@
+MATHS.001,Calculus I,3
+MATHS.002,Linear Algebra,3
